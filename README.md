@@ -1,6 +1,7 @@
 # Art-Gallery-System
-To see a live demo type the following ip address in a browser or click on the link below:
+To see a live demo type the following ip address in a browser:
 
 3.110.130.224
 
+Or click on the link below:
 http://3.110.130.224/
